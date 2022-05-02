@@ -1,0 +1,352 @@
+body{
+    font-family: Arial, sans-serif
+}
+nav{
+    width: 100%;
+    height: 60px;
+    background: #344051;
+    
+}
+.logo{
+    color: white;
+    font-size: 26px;
+    line-height: 60px;
+    padding-left: 300px;
+    float: left;
+    
+}    
+.menu{
+    float: left;
+    padding-left: 420px;
+}
+.menu li{ 
+    float: left;
+    line-height: 60px;
+    color: white;
+    margin-right: 40px;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.main{
+    width: 100%;
+    height: calc(100% - 60px);
+background: url(../img/%D0%9F%D0%B0%D1%80%D0%B5%D0%BD%D1%8C.png) 90% 100% /auto 85% no-repeat , url(../img/%D1%84%D0%BE%D0%BD%201%20%D0%B1%D0%BB%D0%BE%D0%BA.png) center/cover no-repeat;
+ 
+}
+.title__container{
+   float: left;
+    margin: 432px 0px 0px 404px;
+    color: #2c384a;
+    text-align: center;
+    
+}
+.title__container h1{
+    font-size: 60px;
+    font-weight: bold;
+}
+.title__container h4{
+    margin-top: 40px;
+    font-size: 22px;
+    color: #79818d;  
+}
+.title__container input{
+    height: 40px;
+    text-align: center;
+    border: 2px solid #79818d; 
+    background: none;
+    border-radius: 5px;
+    font-size: 18px;
+    padding: 0px 16px;
+    margin: 18px 14px 0px 14px;
+}
+.obomne{
+    padding-top: 0px;
+    font-size: 26px;
+   text-align: center;
+   color: #263244;
+   margin-top: 10px;
+       
+}
+.obomne img{
+    margin: 10px 0px 30px 0px;
+    }
+.obomne p{
+    width:1000px;
+   text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    margin-bottom: 46px;
+    color: #3f495a;
+    
+}
+.obmne{
+     
+}
+.rzm{
+    border: 2px solid #6f707e;
+    color: #6f707e;
+    font-size: 17px;
+    text-align: center;
+    margin-bottom: 90px;
+    padding: 10px 10px 25px 10px;
+   margin-left: auto;
+    margin-right: auto;
+    height: 35px;
+  width: 180px;
+    border-radius: 5px;
+}
+.rzm a{
+    color: #6f707e;
+}
+.umeniya{
+    background: url(../img/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0%20%D1%84%D0%BE%D0%BD%D0%B0.png)center/cover no-repeat 
+        
+}
+.umeniya h3{
+    font-size: 26px;
+    text-align: center;
+    padding: 107px 0px 32px 0px;
+    color: #3f495a;
+}
+.umeniya table{
+    margin: 140px 320px 100px 320px;
+    text-align: center;
+    
+}
+.umeniya table h5{
+    color: #cf7600;
+    font-size: 16px;
+    margin-top: 43px;
+    font-weight: 700;
+}
+.umeniya table p{
+    margin-bottom: 90px;
+    font-size: 15px;
+    color: #3f495a;  
+}
+h3{
+    font-weight: 530;
+    font-size: 26px;
+    text-align: center;
+    padding: 50px 0px 32px 0px;
+    color: #3f495a;
+     
+    
+}
+.orangeline{
+margin-left: 48%;
+    margin-right: 52%;
+   
+}
+.keisy p{
+width:1000px;
+   text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    margin-bottom: 46px;
+    color: #3f495a;
+    font-size: 15px;
+}
+.keisy img{
+   display: block;
+  margin: 0 auto;
+    margin-bottom: 50px;
+    
+    
+}
+.project{
+    color: #3f495a;
+    margin: 0px 390px 30px 390px;
+    text-align: left;
+    font-size: 20px;
+    white-space 7px;
+}
+.s{
+   line-height: 40px
+    
+}
+.client{
+    color: #3f495a;
+    font-size: 20px;
+   margin-right: 190px;
+    margin-left: 308px;
+    float: left;
+    width: 80px;
+    line-height: 25px;
+    } 
+
+
+.mars{
+    font-size: 18px;
+    float: left;
+    width: 780px;
+    color: #3f495a;
+    line-height: 25px;
+    margin-bottom: 200px;
+    font-size: 18px;
+}
+
+
+    
+.ssylka{
+    color: #fcfdfd;
+    text-align: center;
+    background: #63b5ae;
+ width: 200px;
+height: 40px;
+    font-size: 18px;
+float: left;
+border-radius: 6px;
+    
+}
+ 
+
+
+
+}
+.tipsayta{
+    width: 800px;
+    text-align: center;
+   
+}
+.ts{
+    font-weight: 550;
+    text-align: left;
+    padding-top: 60px;
+    padding-bottom: 20px;
+    margin-left: 460px;
+    font-size: 20px;
+    color: #1c2534;
+        
+    }
+.punkty{
+    margin-left: 460px;
+    
+    width: 890px;
+    background-color: #eeeeee;
+    color: #737373;
+    padding: 16px;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    
+    position: center;
+    background-color: #eee;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    
+} 
+.ss{ 
+    font-size: 19px;
+    font-weight: 550;
+    width: 890px;
+    margin-left: 460px;
+    margin-top: 30px;
+    text-align: left;
+    color: #1c2534;
+}
+.pod{
+    margin-left: 460px;
+    margin-top: 40px;
+    
+} 
+.statistika{
+    background: url(../img/%D1%84%D0%BE%D0%BD%20%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0.png) center/cover no-repeat;
+    margin-top: 156px;
+    height: 500px;
+    
+    
+    
+    
+}
+.schast{
+    text-align: center;
+    font-size: 20px;
+    color: #323e4f; 
+    margin-left: 340px;
+    margin-top: 100px;
+    line-height: 40px;
+    
+    
+}
+.schast img{
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-bottom: 40px;
+}
+
+.otzyvy{
+    color: #243042;
+    text-align: center;
+    padding: 30px;
+    line-height: 1.5;
+    font-size: 16px;
+    width: 715px;
+    margin: 20px 69% 20px 31%;
+    
+    
+    
+}  
+.otzyvy p{margin-top: 30px;} 
+
+.otz{
+    text-align: center;
+    
+}
+.tochki{
+   margin-left: 50%;
+    margin-right: 50%;
+    width: 100px; 
+    border-color: #c96500;
+    
+    
+}
+.kontakty{
+    height: 820px;
+    padding-top: 50px;
+    margin-top: 50px;
+   text-align: center;
+    color: white;
+    
+    background: url(../img/%D0%A4%D0%BE%D0%BD%D0%BA.png)
+         
+        
+    
+}
+.kontakty p{
+line-height: 8.5;
+    font-size: 15px;
+    color: white;
+    text-align: center;
+    padding-bottom: 60px;
+}
+.kontakty h4{
+    font-weight: 530;
+    font-size: 26px;
+    text-align: center;
+    padding: 50px 0px 32px 0px;
+    color: white;
+    
+}
+.kontakty img{
+    position:relative;
+    bottom: 30px;
+    left: 105px;
+  
+}
+
+  
+}
+
+.kontakty span{
+    font-size: 16px;
+    text-align: center;
+    padding: 50px 20px 32px 20px;
+    color: white;
+    ;
+    
+    
+}
